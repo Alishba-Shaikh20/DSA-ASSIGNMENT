@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
