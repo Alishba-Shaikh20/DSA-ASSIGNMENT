@@ -38,10 +38,12 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0225-implement-stack-using-queues) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0217-contains-duplicate) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
