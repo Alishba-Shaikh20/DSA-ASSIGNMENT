@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
