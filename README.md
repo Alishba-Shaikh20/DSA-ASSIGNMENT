@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0035-search-insert-position) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
