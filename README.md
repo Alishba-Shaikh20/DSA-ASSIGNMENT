@@ -22,6 +22,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
