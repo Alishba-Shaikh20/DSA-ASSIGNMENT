@@ -47,6 +47,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +60,9 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Alishba-Shaikh20/DSA-ASSIGNMENT/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
